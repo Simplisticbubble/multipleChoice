@@ -42,7 +42,7 @@ export default function App(){
           )
           )}
         </ul>
-        <button onClick = {() => showScoreAlert()}>Show score i </button>
+        <button onClick = {() => showScoreAlert()}>Show score out of 2 </button>
       </div>
     </>
   );
